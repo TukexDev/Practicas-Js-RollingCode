@@ -62,3 +62,18 @@
 // } else {
 //     document.write(`El ${num1} no es divisible por 2`);
 // }
+
+// Ejercicio 9
+
+// let frase = prompt('Ingresa una frase');
+// let vocales = "";
+// let lista = "aeiou";
+
+// for (let i = 0; i < frase.length; i++) {
+//     let letra = frase.charAt(i).toLowerCase();
+//     if (lista.includes(letra)) {
+//         vocales += letra;
+//     }
+// }
+
+// document.write(vocales);
