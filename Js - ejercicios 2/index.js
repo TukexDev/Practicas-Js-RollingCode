@@ -152,3 +152,5 @@
 // }
 
 // document.write("Fin del programa");
+
+///////////////// Ejercicio 6 /////////////////
